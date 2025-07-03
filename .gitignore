@@ -1,0 +1,19 @@
+# Ignore CSV files in the root directory, especially large ones
+*.csv
+*.csv.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other potential large files or build artifacts
+*.zip
+*.gz
+*.tar.gz
+*.log
+*.DS_Store
+venv/
+.DS_Store
+*.parquet
+*.pkl
+*.pickle
