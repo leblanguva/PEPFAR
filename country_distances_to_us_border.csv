@@ -1,0 +1,178 @@
+Country Name,ISO_A3,Minimum Distance to US Southern Border (km),Land Route Possible
+Afghanistan,AFG,12830.47,False
+Albania,ALB,10538.09,False
+Algeria,DZA,9445.96,False
+Angola,AGO,13414.53,False
+Antarctica,ATA,11452.01,False
+Argentina,ARG,7576.84,True
+Armenia,ARM,11573.13,False
+Australia,AUS,15506.53,False
+Austria,AUT,9480.95,False
+Azerbaijan,AZE,11753.43,False
+Bangladesh,BGD,13501.35,False
+Belarus,BLR,9712.45,False
+Belgium,BEL,8802.82,False
+Belize,BLZ,2655.71,True
+Benin,BEN,11417.69,False
+Bhutan,BTN,13184.55,False
+Bolivia,BOL,6441.25,True
+Bosnia and Herzegovina,BIH,10004.85,False
+Botswana,BWA,14998.92,False
+Brazil,BRA,5428.97,True
+Brunei,BRN,13797.78,False
+Bulgaria,BGR,10564.64,False
+Burkina Faso,BFA,10826.44,False
+Burundi,BDI,14780.66,False
+Cambodia,KHM,13914.52,False
+Cameroon,CMR,12477.73,False
+Canada,CAN,1883.44,True
+Central African Republic,CAF,12905.7,False
+Chad,TCD,12236.96,False
+Chile,CHL,6992.76,True
+China,CHN,12154.51,False
+Colombia,COL,4294.5,True
+Costa Rica,CRI,3434.08,True
+Croatia,HRV,9864.98,False
+Cuba,CUB,2788.03,False
+Cyprus,CYP,11712.62,False
+Czechia,CZE,9387.57,False
+Democratic Republic of the Congo,COD,13485.13,False
+Denmark,DNK,8788.98,False
+Djibouti,DJI,14434.55,False
+Dominican Republic,DOM,4130.65,False
+East Timor,TLS,13744.58,False
+Ecuador,ECU,4696.05,True
+Egypt,EGY,11763.93,False
+El Salvador,SLV,2883.88,True
+Equatorial Guinea,GNQ,12785.68,False
+Eritrea,ERI,13827.78,False
+Estonia,EST,9182.39,False
+Ethiopia,ETH,14234.1,False
+Falkland Islands,FLK,10417.43,False
+Fiji,FJI,8855.43,False
+Finland,FIN,8925.19,False
+France,FRA,6573.48,False
+French Southern and Antarctic Lands,ATF,18084.09,False
+Gabon,GAB,12866.09,False
+Gambia,GMB,9652.75,False
+Georgia,GEO,11215.18,False
+Germany,DEU,9068.9,False
+Ghana,GHA,11054.25,False
+Greece,GRC,10677.14,False
+Greenland,GRL,5516.78,False
+Guatemala,GTM,2518.24,True
+Guinea,GIN,9933.77,False
+Guinea-Bissau,GNB,9712.17,False
+Guyana,GUY,5849.38,True
+Haiti,HTI,3934.74,False
+Honduras,HND,2862.89,True
+Hungary,HUN,9863.39,False
+Iceland,ISL,6729.12,False
+India,IND,13914.08,False
+Indonesia,IDN,15072.23,False
+Iran,IRN,11761.23,False
+Iraq,IRQ,12175.13,False
+Ireland,IRL,8033.21,False
+Israel,ISR,12177.87,False
+Italy,ITA,9475.9,False
+Ivory Coast,CIV,10638.23,False
+Jamaica,JAM,3592.03,False
+Japan,JPN,10454.05,False
+Jordan,JOR,12373.76,False
+Kazakhstan,KAZ,10894.5,False
+Kenya,KEN,14608.49,False
+Kosovo,KOS,10421.26,False
+Kuwait,KWT,12910.34,False
+Kyrgyzstan,KGZ,12158.71,False
+Laos,LAO,13389.25,False
+Latvia,LVA,9317.18,False
+Lebanon,LBN,12040.15,False
+Lesotho,LSO,16023.71,False
+Liberia,LBR,10527.6,False
+Libya,LBY,11042.79,False
+Lithuania,LTU,9317.18,False
+Luxembourg,LUX,9090.97,False
+Madagascar,MDG,17065.74,False
+Malawi,MWI,15552.96,False
+Malaysia,MYS,14682.48,False
+Mali,MLI,9995.8,False
+Mauritania,MRT,9183.82,False
+Mexico,MEX,0.0,True
+Moldova,MDA,10238.69,False
+Mongolia,MNG,10881.99,False
+Montenegro,MNE,10343.63,False
+Morocco,MAR,9147.7,False
+Mozambique,MOZ,15679.97,False
+Myanmar,MMR,13656.3,False
+Namibia,NAM,14080.44,False
+Nepal,NPL,13246.87,False
+Netherlands,NLD,8833.94,False
+New Caledonia,NCL,10693.2,False
+New Zealand,NZL,11900.23,False
+Nicaragua,NIC,3140.39,True
+Niger,NER,11117.88,False
+Nigeria,NGA,11718.51,False
+North Korea,PRK,10278.92,False
+North Macedonia,MKD,10533.5,False
+Northern Cyprus,CYN,11731.9,False
+Norway,NOR,8367.24,False
+Oman,OMN,14149.0,False
+Pakistan,PAK,13181.07,False
+Palestine,PSX,12197.26,False
+Panama,PAN,3779.34,True
+Papua New Guinea,PNG,11870.35,False
+Paraguay,PRY,7710.49,True
+Peru,PER,5039.33,True
+Philippines,PHL,13267.5,False
+Poland,POL,9265.15,False
+Portugal,PRT,8791.38,False
+Puerto Rico,PRI,4617.97,False
+Qatar,QAT,13426.42,False
+Republic of Serbia,SRB,10076.38,False
+Republic of the Congo,COG,13273.64,False
+Romania,ROU,10127.69,False
+Russia,RUS,5298.61,False
+Rwanda,RWA,14747.91,False
+Saudi Arabia,SAU,12496.17,False
+Senegal,SEN,9489.75,False
+Sierra Leone,SLE,10234.12,False
+Slovakia,SVK,9765.42,False
+Slovenia,SVN,9839.4,False
+Solomon Islands,SLB,10637.17,False
+Somalia,SOM,15214.71,False
+Somaliland,SOL,14585.1,False
+South Africa,ZAF,14986.3,False
+South Korea,KOR,10414.26,False
+South Sudan,SDS,13493.74,False
+Spain,ESP,8554.52,False
+Sri Lanka,LKA,15484.22,False
+Sudan,SDN,13031.67,False
+Suriname,SUR,6263.47,True
+Sweden,SWE,8674.9,False
+Switzerland,CHE,9343.05,False
+Syria,SYR,12102.94,False
+Taiwan,TWN,11858.39,False
+Tajikistan,TJK,12200.18,False
+Thailand,THA,13721.76,False
+The Bahamas,BHS,3149.55,False
+Togo,TGO,11329.31,False
+Trinidad and Tobago,TTO,5554.61,False
+Tunisia,TUN,10324.33,False
+Turkey,TUR,10900.15,False
+Turkmenistan,TKM,11734.82,False
+Uganda,UGA,14658.13,False
+Ukraine,UKR,10019.28,False
+United Arab Emirates,ARE,13582.65,False
+United Kingdom,GBR,8054.74,False
+United Republic of Tanzania,TZA,14927.94,False
+United States of America,USA,0.0,True
+Uruguay,URY,8845.45,True
+Uzbekistan,UZB,11851.35,False
+Vanuatu,VUT,10140.61,False
+Venezuela,VEN,4554.83,True
+Vietnam,VNM,13085.08,False
+Western Sahara,SAH,9163.77,False
+Yemen,YEM,14139.26,False
+Zambia,ZMB,14810.15,False
+Zimbabwe,ZWE,15384.32,False
+eSwatini,SWZ,16270.74,False

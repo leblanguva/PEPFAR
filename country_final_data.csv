@@ -1,0 +1,178 @@
+Country Name,ISO_A3,Minimum Distance to US Southern Border (km),Continent,Land Route Possible
+Fiji,FJI,8855.430715742128,Oceania,False
+United Republic of Tanzania,TZA,14927.942037006267,Africa,False
+Western Sahara,SAH,9163.769363074916,Africa,False
+Canada,CAN,1883.435074867624,North America,True
+United States of America,USA,0.0,North America,True
+Kazakhstan,KAZ,10894.497684388352,Asia,False
+Uzbekistan,UZB,11851.348577626835,Asia,False
+Papua New Guinea,PNG,11870.348933913188,Oceania,False
+Indonesia,IDN,15072.225283536123,Asia,False
+Argentina,ARG,7576.835800670912,South America,True
+Chile,CHL,6992.76286344861,South America,True
+Democratic Republic of the Congo,COD,13485.125209952988,Africa,False
+Somalia,SOM,15214.712221383672,Africa,False
+Kenya,KEN,14608.485030571,Africa,False
+Sudan,SDN,13031.67255457931,Africa,False
+Chad,TCD,12236.956274772265,Africa,False
+Haiti,HTI,3934.738330688781,North America,False
+Dominican Republic,DOM,4130.6493987572885,North America,False
+Russia,RUS,5298.605171982792,Europe,False
+The Bahamas,BHS,3149.548730067209,North America,False
+Falkland Islands,FLK,10417.429729254492,South America,False
+Norway,NOR,8367.243073882786,Europe,False
+Greenland,GRL,5516.777782193464,North America,False
+French Southern and Antarctic Lands,ATF,18084.088515030744,Seven seas (open ocean),False
+East Timor,TLS,13744.57735773279,Asia,False
+South Africa,ZAF,14986.304743360302,Africa,False
+Lesotho,LSO,16023.70508346354,Africa,False
+Mexico,MEX,0.0,North America,True
+Uruguay,URY,8845.448766011445,South America,True
+Brazil,BRA,5428.9748790022095,South America,True
+Bolivia,BOL,6441.248787438744,South America,True
+Peru,PER,5039.333910762765,South America,True
+Colombia,COL,4294.495127840334,South America,True
+Panama,PAN,3779.339370818008,North America,True
+Costa Rica,CRI,3434.0789219319918,North America,True
+Nicaragua,NIC,3140.3867931875598,North America,True
+Honduras,HND,2862.8867833171284,North America,True
+El Salvador,SLV,2883.8817354784924,North America,True
+Guatemala,GTM,2518.237596676185,North America,True
+Belize,BLZ,2655.7109826386136,North America,True
+Venezuela,VEN,4554.831453365364,South America,True
+Guyana,GUY,5849.378992895588,South America,True
+Suriname,SUR,6263.474879863256,South America,True
+France,FRA,6573.476380933923,Europe,False
+Ecuador,ECU,4696.048949944682,South America,True
+Puerto Rico,PRI,4617.971052366597,North America,False
+Jamaica,JAM,3592.029393513013,North America,False
+Cuba,CUB,2788.0335676176624,North America,False
+Zimbabwe,ZWE,15384.321862169356,Africa,False
+Botswana,BWA,14998.920671148442,Africa,False
+Namibia,NAM,14080.440469153931,Africa,False
+Senegal,SEN,9489.747252374427,Africa,False
+Mali,MLI,9995.801275083042,Africa,False
+Mauritania,MRT,9183.824125044148,Africa,False
+Benin,BEN,11417.690033913206,Africa,False
+Niger,NER,11117.883672895705,Africa,False
+Nigeria,NGA,11718.513942965988,Africa,False
+Cameroon,CMR,12477.734078905489,Africa,False
+Togo,TGO,11329.30516868364,Africa,False
+Ghana,GHA,11054.246372705398,Africa,False
+Ivory Coast,CIV,10638.226375875804,Africa,False
+Guinea,GIN,9933.769531495036,Africa,False
+Guinea-Bissau,GNB,9712.172089863036,Africa,False
+Liberia,LBR,10527.596241964106,Africa,False
+Sierra Leone,SLE,10234.12277474863,Africa,False
+Burkina Faso,BFA,10826.440474806986,Africa,False
+Central African Republic,CAF,12905.69825957815,Africa,False
+Republic of the Congo,COG,13273.641805382456,Africa,False
+Gabon,GAB,12866.087192235063,Africa,False
+Equatorial Guinea,GNQ,12785.678218544586,Africa,False
+Zambia,ZMB,14810.146246362485,Africa,False
+Malawi,MWI,15552.9631879579,Africa,False
+Mozambique,MOZ,15679.97350215806,Africa,False
+eSwatini,SWZ,16270.736004323264,Africa,False
+Angola,AGO,13414.529063843242,Africa,False
+Burundi,BDI,14780.65587338528,Africa,False
+Israel,ISR,12177.867915093268,Asia,False
+Lebanon,LBN,12040.150420927166,Asia,False
+Madagascar,MDG,17065.739762783738,Africa,False
+Palestine,PSX,12197.258689650558,Asia,False
+Gambia,GMB,9652.7517669736,Africa,False
+Tunisia,TUN,10324.333970255318,Africa,False
+Algeria,DZA,9445.957439115022,Africa,False
+Jordan,JOR,12373.762664998098,Asia,False
+United Arab Emirates,ARE,13582.653094275003,Asia,False
+Qatar,QAT,13426.422073898855,Asia,False
+Kuwait,KWT,12910.338751979065,Asia,False
+Iraq,IRQ,12175.130068496275,Asia,False
+Oman,OMN,14149.002026272885,Asia,False
+Vanuatu,VUT,10140.613436082713,Oceania,False
+Cambodia,KHM,13914.518632716245,Asia,False
+Thailand,THA,13721.75873786992,Asia,False
+Laos,LAO,13389.247655534484,Asia,False
+Myanmar,MMR,13656.301515374877,Asia,False
+Vietnam,VNM,13085.076118988396,Asia,False
+North Korea,PRK,10278.918647996969,Asia,False
+South Korea,KOR,10414.25924468834,Asia,False
+Mongolia,MNG,10881.987159285323,Asia,False
+India,IND,13914.083109522244,Asia,False
+Bangladesh,BGD,13501.35397966781,Asia,False
+Bhutan,BTN,13184.546441684117,Asia,False
+Nepal,NPL,13246.873590663734,Asia,False
+Pakistan,PAK,13181.066940297527,Asia,False
+Afghanistan,AFG,12830.474433434429,Asia,False
+Tajikistan,TJK,12200.178530867895,Asia,False
+Kyrgyzstan,KGZ,12158.707832061007,Asia,False
+Turkmenistan,TKM,11734.822751935188,Asia,False
+Iran,IRN,11761.234176755805,Asia,False
+Syria,SYR,12102.940611205262,Asia,False
+Armenia,ARM,11573.133058299809,Asia,False
+Sweden,SWE,8674.896899544934,Europe,False
+Belarus,BLR,9712.449301950452,Europe,False
+Ukraine,UKR,10019.284135895296,Europe,False
+Poland,POL,9265.153795316592,Europe,False
+Austria,AUT,9480.947690965342,Europe,False
+Hungary,HUN,9863.387888020068,Europe,False
+Moldova,MDA,10238.68938296312,Europe,False
+Romania,ROU,10127.688653969984,Europe,False
+Lithuania,LTU,9317.175132702583,Europe,False
+Latvia,LVA,9317.175132702583,Europe,False
+Estonia,EST,9182.391022316928,Europe,False
+Germany,DEU,9068.904417191698,Europe,False
+Bulgaria,BGR,10564.639391088764,Europe,False
+Greece,GRC,10677.137608883162,Europe,False
+Turkey,TUR,10900.15397490204,Asia,False
+Albania,ALB,10538.090984237302,Europe,False
+Croatia,HRV,9864.97802496078,Europe,False
+Switzerland,CHE,9343.05185681167,Europe,False
+Luxembourg,LUX,9090.967617461132,Europe,False
+Belgium,BEL,8802.821185584811,Europe,False
+Netherlands,NLD,8833.938986428559,Europe,False
+Portugal,PRT,8791.376563005513,Europe,False
+Spain,ESP,8554.522685726773,Europe,False
+Ireland,IRL,8033.213929490174,Europe,False
+New Caledonia,NCL,10693.196688414024,Oceania,False
+Solomon Islands,SLB,10637.1745944313,Oceania,False
+New Zealand,NZL,11900.226666965442,Oceania,False
+Australia,AUS,15506.525577082808,Oceania,False
+Sri Lanka,LKA,15484.21531325108,Asia,False
+China,CHN,12154.509436919318,Asia,False
+Taiwan,TWN,11858.389623606214,Asia,False
+Italy,ITA,9475.90313122877,Europe,False
+Denmark,DNK,8788.98184428617,Europe,False
+United Kingdom,GBR,8054.735910876559,Europe,False
+Iceland,ISL,6729.121748155023,Europe,False
+Azerbaijan,AZE,11753.425387766229,Asia,False
+Georgia,GEO,11215.17837027232,Asia,False
+Philippines,PHL,13267.504739178974,Asia,False
+Malaysia,MYS,14682.476111455751,Asia,False
+Brunei,BRN,13797.777705248724,Asia,False
+Slovenia,SVN,9839.401400133738,Europe,False
+Finland,FIN,8925.189640148787,Europe,False
+Slovakia,SVK,9765.42435664029,Europe,False
+Czechia,CZE,9387.568438709934,Europe,False
+Eritrea,ERI,13827.78306480706,Africa,False
+Japan,JPN,10454.049887673023,Asia,False
+Paraguay,PRY,7710.490963998141,South America,True
+Yemen,YEM,14139.25666914118,Asia,False
+Saudi Arabia,SAU,12496.172185685218,Asia,False
+Antarctica,ATA,11452.007282491526,Antarctica,False
+Northern Cyprus,CYN,11731.901686064688,Asia,False
+Cyprus,CYP,11712.618986399832,Asia,False
+Morocco,MAR,9147.702794449584,Africa,False
+Egypt,EGY,11763.931547027754,Africa,False
+Libya,LBY,11042.794900859117,Africa,False
+Ethiopia,ETH,14234.100617593544,Africa,False
+Djibouti,DJI,14434.547908242146,Africa,False
+Somaliland,SOL,14585.099761286216,Africa,False
+Uganda,UGA,14658.134833303737,Africa,False
+Rwanda,RWA,14747.910897279664,Africa,False
+Bosnia and Herzegovina,BIH,10004.850144908429,Europe,False
+North Macedonia,MKD,10533.503451547576,Europe,False
+Republic of Serbia,SRB,10076.381803739208,Europe,False
+Montenegro,MNE,10343.625676368973,Europe,False
+Kosovo,KOS,10421.264411032224,Europe,False
+Trinidad and Tobago,TTO,5554.611073473988,North America,False
+South Sudan,SDS,13493.744782206068,Africa,False
