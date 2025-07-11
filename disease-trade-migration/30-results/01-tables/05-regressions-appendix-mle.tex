@@ -1,0 +1,67 @@
+
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{booktabs}
+
+\begin{sidewaystable}
+\begin{center}
+\scalebox{0.75}{
+\begin{tabular}{l@{} c@{} c@{} c@{}}
+\toprule
+ & Trade & Migration & Distance \\
+\midrule
+PEPFAR Aid                                                   & $-0.490^{***}$ & $-0.491^{***}$ & $-0.503^{***}$ \\
+                                                             & $(0.121)$      & $(0.121)$      & $(0.120)$      \\
+PEPFAR Trade                                                 & $0.053$        & $-0.139$       & $-0.069$       \\
+                                                             & $(1.794)$      & $(1.789)$      & $(1.782)$      \\
+PEPFAR Trade$^{2}$                                           & $-0.580$       & $-0.135$       & $0.029$        \\
+                                                             & $(2.216)$      & $(2.210)$      & $(2.199)$      \\
+PEPFAR Aid $\times$ PEPFAR Trade                             & $3.965^{***}$  & $3.981^{***}$  & $4.556^{***}$  \\
+                                                             & $(0.966)$      & $(0.964)$      & $(0.964)$      \\
+PEPFAR Aid $\times$ PEPFAR Trade$^{2}$                       & $-8.468^{***}$ & $-8.464^{***}$ & $-9.732^{***}$ \\
+                                                             & $(2.072)$      & $(2.076)$      & $(2.073)$      \\
+PEPFAR Aid $\times$ PEPFAR Trade $\times$ PEPFAR Trade$^{2}$ & $5.608^{***}$  & $5.579^{***}$  & $6.333^{***}$  \\
+                                                             & $(1.286)$      & $(1.290)$      & $(1.287)$      \\
+OECD STI aid                                                 & $-0.119^{***}$ & $-0.119^{***}$ & $-0.117^{***}$ \\
+                                                             & $(0.018)$      & $(0.018)$      & $(0.018)$      \\
+OECD General health aid                                      & $-0.005$       & $-0.005$       & $-0.006$       \\
+                                                             & $(0.016)$      & $(0.016)$      & $(0.016)$      \\
+OECD Reproductive health aid                                 & $0.034$        & $0.033$        & $0.039$        \\
+                                                             & $(0.100)$      & $(0.100)$      & $(0.099)$      \\
+OECD Infectious disease aid                                  & $-0.050$       & $-0.046$       & $-0.044$       \\
+                                                             & $(0.053)$      & $(0.053)$      & $(0.053)$      \\
+Public/Private health spending ratio                         & $0.963^{***}$  & $0.964^{***}$  & $0.943^{***}$  \\
+                                                             & $(0.275)$      & $(0.275)$      & $(0.274)$      \\
+Pop. density$^{\circ}$                                       & $-5.256$       & $-5.239$       & $-4.912$       \\
+                                                             & $(6.864)$      & $(6.864)$      & $(6.835)$      \\
+GDP PC$^{\circ}$                                             & $0.172$        & $0.185$        & $0.202$        \\
+                                                             & $(1.410)$      & $(1.410)$      & $(1.404)$      \\
+Export/Import ratio                                          & $0.227$        & $0.243$        & $0.269$        \\
+                                                             & $(0.531)$      & $(0.531)$      & $(0.529)$      \\
+Internet access                                              & $0.020$        & $0.020$        & $0.025$        \\
+                                                             & $(0.022)$      & $(0.022)$      & $(0.022)$      \\
+Life expecectancy                                            & $-1.598^{***}$ & $-1.539^{***}$ & $-1.476^{***}$ \\
+                                                             & $(0.304)$      & $(0.304)$      & $(0.303)$      \\
+Infant mortality$^{\circ}$                                   & $3.362$        & $3.427$        & $3.544$        \\
+                                                             & $(2.300)$      & $(2.301)$      & $(2.291)$      \\
+HIV incidence rate (per 100k, lag)                           & $0.615^{***}$  & $0.615^{***}$  & $0.623^{***}$  \\
+                                                             & $(0.016)$      & $(0.016)$      & $(0.016)$      \\
+\midrule
+FE - Country                                                 & Yes            & Yes            & Yes            \\
+FE - Year                                                    & Yes            & Yes            & Yes            \\
+Num. obs.                                                    & $2634$         & $2634$         & $2634$         \\
+Parameters                                                   & $216$          & $216$          & $216$          \\
+Log Likelihood                                               & $-6695.178$    & $-6696.123$    & $-6688.028$    \\
+AIC (Linear model)                                           & $13822.610$    & $13822.610$    & $13822.610$    \\
+AIC (Spatial model)                                          & $13822.355$    & $13824.246$    & $13808.057$    \\
+LR test: statistic                                           & $2.255$        & $0.365$        & $16.554$       \\
+LR test: p-value                                             & $0.133$        & $0.546$        & $0.000$        \\
+\bottomrule
+\multicolumn{4}{l}{\scriptsize{$^{***}p<0.001$; $^{**}p<0.01$; $^{*}p<0.05$
+$\circ$ denotes logged variable.}}
+\end{tabular}
+}
+\caption{Supplemental Results - MLE models}
+\label{table:regressions-appendix-mle}
+\end{center}
+\end{sidewaystable}

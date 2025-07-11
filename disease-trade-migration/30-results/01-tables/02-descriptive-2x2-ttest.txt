@@ -1,0 +1,32 @@
+T-test : among NON-Pepfar recipients, is the difference in the change in HIV incidence rate per 100k (hiv incidence first-diff.) statistically significantly different between countries with High or Low trade with PEPFAR recipients? T-test result:
+
+	Welch Two Sample t-test
+
+data:  tradeTest$ihme_hiv100kFd by tradeTest$class
+t = -4.5, df = 1531, p-value = 0.000009
+alternative hypothesis: true difference in means between group PEPFAR Trade - High and group PEPFAR Trade - Low is not equal to 0
+95 percent confidence interval:
+ -1.6018 -0.6229
+sample estimates:
+mean in group PEPFAR Trade - High  mean in group PEPFAR Trade - Low 
+                          -1.5240                           -0.4117 
+
+
+
+Among non-PEPFAR recipients, HIV incidence decreased faster in countries with HIGH trade with PEPFAR recipients (mean high: -1.524) than in countries with LOW trade with PEPFAR recipients (mean low: -0.412).
+
+The mean difference in HIV incidence reduction between Non-PEPFAR recipients who had high trade with PEPFAR recipients and those with low trade with PEPFAR recipieints is -1.103 [95% ci: -1.58, -0.634]
+
+Correlation between HIV incidence rate change (first diff.) and PEPFAR trade percent:
+
+	Pearson's product-moment correlation
+
+data:  d$data$ihme_hiv100kFd and d$data$analysis_tradePepfarPercent
+t = -33, df = 2632, p-value <0.0000000000000002
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.5660 -0.5119
+sample estimates:
+    cor 
+-0.5395 
+
